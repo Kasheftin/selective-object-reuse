@@ -1,6 +1,6 @@
 {
   "name": "selective-object-reuse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple javascript object wrapper that recursively substitutes object-like properties if they match the previously stored values",
   "homepage": "https://github.com/Kasheftin/selective-object-reuse",
   "repository": {
