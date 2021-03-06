@@ -1,0 +1,32 @@
+{
+  "name": "selective-object-reuse",
+  "version": "1.0.0",
+  "description": "Simple javascript object wrapper that recursively substitutes object-like properties if they match the previously stored values",
+  "homepage": "https://github.com/Kasheftin/selective-object-reuse",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kasheftin/selective-object-reuse.git"
+  },
+  "main": "dist/cjs.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "selective",
+    "object",
+    "reuse",
+    "javascript",
+    "recursive",
+    "deep",
+    "wrap"
+  ],
+  "author": "Kasheftin",
+  "license": "MIT",
+  "devDependencies": {
+    "is-mergeable-object": "^1.1.1",
+    "jest": "^26.6.3"
+  }
+}
