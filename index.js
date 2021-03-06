@@ -62,3 +62,4 @@ class SelectiveObjectReuse {
 }
 
 module.exports = SelectiveObjectReuse
+exports.SelectiveObjectReuse = SelectiveObjectReuse
