@@ -2,6 +2,12 @@
 
 Simple javascript object wrapper that recursively substitutes object-like properties if they match the previously stored values.
 
+https://www.npmjs.com/package/selective-object-reuse
+
+```
+npm i --save selective-object-reuse
+```
+
 ### Simple Example
 
 ```javascript
